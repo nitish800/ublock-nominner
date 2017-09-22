@@ -2,3 +2,10 @@
 ||coin-hive.com^
 ||gus.host^
 ||cnhv.co^
+||coinworker.com^
+||tinypass.com^
+||theplatform.com^
+||bounceexchange.com^
+||nbcudigitaladops.com^
+||npttech.com^
+||dynamicyield.com^
