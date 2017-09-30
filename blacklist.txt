@@ -15,7 +15,3 @@
 ||listat.biz^
 ||lmodr.biz^
 ||minecrunch.co^
-||minemytraffic.com^
-||miner.pr0gramm.com^
-||pr0gramm.com/api/^
-||ad.dlbooks.to^
