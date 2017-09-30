@@ -15,4 +15,4 @@
 ||listat.biz^
 ||lmodr.biz^
 ||minecrunch.co^
-/cryptonight.js^
+
